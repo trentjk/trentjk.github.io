@@ -1,0 +1,45 @@
+<package>
+	<id>com.trentjk.mida</id>
+	<name>mida-beta</name>
+	<version>1.0.1-b</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0.0</miniOS>
+			<otherVersions>unknown</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>
+			<![CDATA[
+			A beautifully unified simple and familiar iOS theme...<br/>
+			<br/>I built this theme to feel familiar while also communicating a coherent design language for your icons that third party developers, and even <a href="https://apple.com">Apple</a>, fail to provide. Stemming from the insect order Phasmida, I chose the name mida, with a lower case m, because the theme was designed to 'blend in'.<br/>
+				<br/>
+				<a href="https://docs.google.com/forms/d/e/1FAIpQLSekA0wqJPKSUr59zsZlhDg3K5GaTVX9KHqPu8p4FLk6UtXVAg/viewform?usp=sf_link">
+				<img src="https://i.imgur.com/vbtA8Lp.png" alt="There is supposed to be a screenshot here" width="100%">
+				</a>
+				<br/>
+      <br/>If you would like to support my work, feel free to donate using the link below!
+			<br/>
+      <br/>If you would like to request an icon, feel free to tap the image above or <a href="https://docs.google.com/forms/d/e/1FAIpQLSekA0wqJPKSUr59zsZlhDg3K5GaTVX9KHqPu8p4FLk6UtXVAg/viewform?usp=sf_link">this link</a> to fill out the google form!
+			]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+  	<screenshot>
+			<description>Some sample icons</description>
+			<image>IMG_42089A88629B-1.jpeg</image>
+	  </screenshot>
+	<screenshot>
+			<description>More sample icons</description>
+			<image>IMG_7D9E136BD21F-1.jpeg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Its a beta package</change>
+	</changelog>
+	<links></links>
+</package>
