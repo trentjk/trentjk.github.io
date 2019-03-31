@@ -1,0 +1,16 @@
+Package: com.trentjk.mida
+Version: 1.0.1~b2
+Section: Themes
+Maintainer: Trent Kelsall <trent@trentjk.com>
+Architecture: iphoneos-arm
+Filename: .//debs/com.trentjk.mida.deb
+Size: 20814964
+MD5sum: e9756545650ea857b9b03e2045018e18
+Description: A beautifully unified simple and familiar iOS theme
+ I built this theme to feel familiar while also communicating a coherent design language for your icons that third party developers, and even apple, fail to provide.
+ instructions embodied in this package,
+ Stemming from the insect order Phasmida, I chose the name mida, with a lower case m, because the theme was designed to -blend in-.
+Name: mida-beta
+Author: Trent Kelsall (trentjk) <trent@trentjk.com>
+Homepage: http://trentjk.com
+Depiction: https://trentjk.github.io/repo/depictions/?p=com.trentjk.mida

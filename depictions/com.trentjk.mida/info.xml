@@ -1,10 +1,10 @@
 <package>
 	<id>com.trentjk.mida</id>
 	<name>mida-beta</name>
-	<version>1.0.1-b</version>
+	<version>1.0.1~b2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0.0</miniOS>
+			<miniOS>7.0.0</miniOS>
 			<otherVersions>unknown</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -39,7 +39,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Its a beta package</change>
+		<change>Fixed calendar text, which wasnt being themed</change>
 	</changelog>
 	<links></links>
 </package>
