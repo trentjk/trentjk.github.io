@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.2~b1</version>
+		<change>Added several requested icons</change>
+	</changes>
+	<changes>
 		<version>1.0.1~b2</version>
 		<change>Fixed calendar text not theming text correctly</change>
 	</changes>

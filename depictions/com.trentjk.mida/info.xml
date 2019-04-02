@@ -1,7 +1,7 @@
 <package>
 	<id>com.trentjk.mida</id>
 	<name>mida-beta</name>
-	<version>1.0.1~b2</version>
+	<version>1.0.2~b1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0.0</miniOS>
@@ -39,7 +39,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed calendar text not theming text correctly</change>
+		<change>Added several requested icons</change>
 	</changelog>
 	<links></links>
 </package>
