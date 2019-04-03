@@ -1,7 +1,7 @@
 <package>
 	<id>com.trentjk.mida</id>
 	<name>mida-beta</name>
-	<version>1.0.2~b1</version>
+	<version>1.0.2~b2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0.0</miniOS>
@@ -15,7 +15,7 @@
 	<descriptionlist>
 		<description>
 			<![CDATA[
-			A beautifully unified simple and familiar iOS theme...<br/>
+			A beautifully unified simple and familiar iOS theme... Now comes with custom wallpapers!<br/>
 			<br/>I built this theme to feel familiar while also communicating a coherent design language for your icons that third party developers, and even <a href="https://apple.com">Apple</a>, fail to provide. Stemming from the insect order Phasmida, I chose the name mida, with a lower case m, because the theme was designed to 'blend in'.<br/>
 				<br/>
 				<a href="https://docs.google.com/forms/d/e/1FAIpQLSekA0wqJPKSUr59zsZlhDg3K5GaTVX9KHqPu8p4FLk6UtXVAg/viewform?usp=sf_link">
@@ -39,7 +39,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added several requested icons</change>
+		<change>Added custom wallpapers to default wallpapers. Added clock icon for app switcher. Updated Cydia and Unc0ver icons. Reduced file size.</change>
 	</changelog>
 	<links></links>
 </package>
