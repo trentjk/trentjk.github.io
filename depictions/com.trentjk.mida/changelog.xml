@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.0.3~b2</version>
+		<change>Updated JW library icon</change>
+	</changes>
+	<changes>
+	<changes>
 		<version>1.0.3~b1</version>
 		<change>Added several requested icons. Wallpapers temporarily show up over some default one. No default wallpapers are deleted or removed.</change>
 	</changes>
