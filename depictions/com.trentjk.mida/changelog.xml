@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.3~b1</version>
+		<change>Added several requested icons. Wallpapers temporarily show up over some default one. No default wallpapers are deleted or removed.</change>
+	</changes>
+	<changes>
 		<version>1.0.2~b2</version>
 		<change>Added custom wallpapers to default wallpapers. Added clock icon for app switcher. Updated Cydia and Unc0ver icons. Reduced file size.</change>
 	</changes>
