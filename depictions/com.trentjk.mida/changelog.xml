@@ -1,5 +1,13 @@
 <changelog>
 	<changes>
+		<version>1.0.4~b1</version>
+		<change>Adjusted colors. Updated Cydia Icon. Added a few game icons.</change>
+	</changes>
+	<changes>
+		<version>1.0.3~b1</version>
+		<change>Added several requested icons</change>
+	</changes>
+	<changes>
 		<version>1.0.2~b1</version>
 		<change>Added several requested icons</change>
 	</changes>
