@@ -12,8 +12,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
-	<descriptionlist>
-		<description>
+	<description>
 			<![CDATA[
 			NOTE: An update to mida is coming soon!<br/>
 			<br/>A beautifully unified simple and familiar iOS theme...<br/>
@@ -25,8 +24,7 @@
 			<br/>
       <br/>Icon Requests are being moved to a new format soon!
 			]]>
-		</description>
-	</descriptionlist>
+	</description>
 	<screenshots>
   	<screenshot>
 			<description>Some sample icons</description>
